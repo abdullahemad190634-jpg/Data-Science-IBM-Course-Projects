@@ -13,9 +13,12 @@ GGally: To generate a generalized pairs plot for multivariate analysis.
 
 Git & GitHub: For distributed version control and project documentation.
 
-🔍 Key Insights from the Analysis
-Below is the Pairs Plot which provides a comprehensive view of the dataset:
+## 📂 My Projects Directory
 
-Findings: The species Setosa (red) is clearly distinct from Versicolor and Virginica based on petal length and width.
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Iris Analysis** | Exploratory Data Analysis using GGally and ggplot2. | [View Details](./R-Visualizations/) |
+| **Car Performance** | Analyzing MPG vs Displacement using mtcars dataset. | [View Details](./Car-Analysis/) |
 
-Correlation: There is a very strong positive correlation (0.963) between Petal Length and Petal Width.
+---
+*Note: Each folder contains the source code, analysis notes, and resulting visualizations.*
