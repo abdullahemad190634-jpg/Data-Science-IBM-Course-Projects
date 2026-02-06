@@ -19,7 +19,7 @@ Git & GitHub: For distributed version control and project documentation.
 | :--- | :--- | :--- |
 | **Iris Analysis** | Exploratory Data Analysis using GGally and ggplot2. | [View Details](./R-Visualizations/) |
 | **Car Performance** | Analyzing MPG vs Displacement using mtcars dataset. | [View Details](./Car-Analysis/) |
-| **weather Analysis** | Analyzing different temp between cities . | [View Details](./weather-Analysis/) |
+| **weather Analysis** | Analyzing different temp between cities . | [View Details](./Weather-Analysis/) |
 
 ---
 *Note: Each folder contains the source code, analysis notes, and resulting visualizations.*
