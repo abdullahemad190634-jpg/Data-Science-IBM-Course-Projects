@@ -4,8 +4,7 @@ In this project, I performed an **Exploratory Data Analysis (EDA)** to compare b
 
 ## 📊 Visual Result
 ![average temp of city](temp.png)
-## 🔍 Key Findings
-* **compare between city temp**
+
   ![average temp of city](TemperaturevsHumidity.png)
 ## 📉 Analysis Insight: Temperature vs. Humidity
 Based on the scatter plot:
