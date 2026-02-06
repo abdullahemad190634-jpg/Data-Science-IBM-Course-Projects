@@ -1,0 +1,13 @@
+# average temp Data Exploration 
+
+In this project, I performed an **Exploratory Data Analysis (EDA)** to compare between different city temp.
+
+## 📊 Visual Result
+![average temp of city](average_temp.png)
+
+## 🔍 Key Findings
+* **different between city temp**
+
+## 🛠️ Tools Used
+* **R Language**
+* **ggplot2**
